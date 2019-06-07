@@ -2,4 +2,4 @@
 
 # installation
 
-%pip install import_nbmodule
+!pip install import_nbmodule
