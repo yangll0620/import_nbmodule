@@ -1,0 +1,15 @@
+# Jupyter Notebook
+.ipynb_checkpoints
+
+
+### Python ###
+# Byte-compiled / optimized / DLL files
+__pycache__/
+
+# Distribution / packaging
+build/
+dist/
+
+# Sphinx documentation
+docs/_build/
+
