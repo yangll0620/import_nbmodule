@@ -1,7 +1,7 @@
 # Always prefer setuptools over distutils
 from setuptools import setup
 
-setup(name                  =   'importnb',
+setup(name                  =   'import_nbmodule',
       version               =   '0.0.1',
       description           =   'import jupyter notebook .ipynb module',
       long_description      =   '',
