@@ -13,3 +13,4 @@ dist/
 # Sphinx documentation
 docs/_build/
 
+*.egg-info/
