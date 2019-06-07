@@ -4,22 +4,6 @@ from setuptools import setup, find_packages
 with open("README.md", "r") as fh:
 	long_description = fh.read()
 
-<<<<<<< HEAD
-=======
-setup(name                  =   'import_nbmodule',
-      version               =   '0.0.1',
-      description           =   'import jupyter notebook .ipynb module',
-      long_description      =   '',
-      
-      py_modules            =   ['import_nbmodule'],
-      
-      # the project's homepage
-      url                   =   'https://github.com/yangll0620/importnb',
-      author                =   'Lingling Yang'
-      
-)
->>>>>>> 9a04a7c4fbeda0dbf1b6e35217f1f72b8dae7398
-
 setup(name                  		=   'import_nbmodule',
       version               		=   '0.0.1',
       description           		=   'import jupyter notebook .ipynb module',
