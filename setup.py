@@ -6,7 +6,7 @@ setup(name                  =   'import_nbmodule',
       description           =   'import jupyter notebook .ipynb module',
       long_description      =   '',
       
-      py_modules            =   ['importnb'],
+      py_modules            =   ['import_nbmodule'],
       
       # the project's homepage
       url                   =   'https://github.com/yangll0620/importnb',
