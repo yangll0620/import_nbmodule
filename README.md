@@ -6,6 +6,7 @@ pip install import_nbmodule
 
 # Usage
 import import_nbmodule
+
 import yournbmodule 
 
 See the example usage in examples/
