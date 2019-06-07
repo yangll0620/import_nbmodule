@@ -1,5 +1,7 @@
 # import_nbmodule
 
+import the module in .ipynb 
+
 # Installation 
 pip install import_nbmodule
 
@@ -9,7 +11,7 @@ import import_nbmodule
 
 import yournbmodule 
 
-See the example usage in examples/
+See the example usage in the subfolder examples/
 
 # Reference
 Main codes are from the official guidance here:
