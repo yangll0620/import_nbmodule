@@ -1,6 +1,6 @@
 # import_nbmodule
 
-import the module in .ipynb 
+Functionality: this package is used to import the module in .ipynb 
 
 # Installation 
 pip install import_nbmodule
